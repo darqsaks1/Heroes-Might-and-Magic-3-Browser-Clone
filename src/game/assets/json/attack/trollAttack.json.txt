@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "attack3.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack2.png": {
+      "frame": {
+        "x": 0,
+        "y": 101,
+        "w": 77,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack1.png": {
+      "frame": {
+        "x": 51,
+        "y": 0,
+        "w": 72,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 91
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack4.png": {
+      "frame": {
+        "x": 0,
+        "y": 193,
+        "w": 85,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack5.png": {
+      "frame": {
+        "x": 77,
+        "y": 91,
+        "w": 81,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 81,
+        "h": 85
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "trollAttack.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 158,
+      "h": 282
+    },
+    "scale": 1
+  }
+}

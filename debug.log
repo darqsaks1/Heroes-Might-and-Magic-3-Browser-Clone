@@ -1,0 +1,2 @@
+[0617/223133.070:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0617/223133.110:ERROR:exception_snapshot_win.cc(98)] thread ID 14916 not found in process

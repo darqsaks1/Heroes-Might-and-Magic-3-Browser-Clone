@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "attack5.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack2.png": {
+      "frame": {
+        "x": 138,
+        "y": 0,
+        "w": 122,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack6.png": {
+      "frame": {
+        "x": 260,
+        "y": 0,
+        "w": 108,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack3.png": {
+      "frame": {
+        "x": 138,
+        "y": 83,
+        "w": 98,
+        "h": 103
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack4.png": {
+      "frame": {
+        "x": 0,
+        "y": 101,
+        "w": 103,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 103,
+        "h": 94
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "attack1.png": {
+      "frame": {
+        "x": 368,
+        "y": 0,
+        "w": 101,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "orkWolfAttack.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 469,
+      "h": 195
+    },
+    "scale": 1
+  }
+}

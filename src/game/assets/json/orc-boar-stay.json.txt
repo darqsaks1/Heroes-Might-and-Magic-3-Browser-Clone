@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "orc-boar.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 349,
+				"h": 104
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stay3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 102
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 86,
+						"h": 102
+					}
+				},
+				{
+					"filename": "stay1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 102
+					},
+					"frame": {
+						"x": 89,
+						"y": 1,
+						"w": 85,
+						"h": 102
+					}
+				},
+				{
+					"filename": "stay2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 102
+					},
+					"frame": {
+						"x": 176,
+						"y": 1,
+						"w": 85,
+						"h": 102
+					}
+				},
+				{
+					"filename": "stay4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 102
+					},
+					"frame": {
+						"x": 263,
+						"y": 1,
+						"w": 85,
+						"h": 102
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f91ad8d961014cd9619982f41b0e50c8:dd4ab3852538834166b53a5884547f28:cc79391974fc68d138d3083fbd9f46e3$"
+	}
+}

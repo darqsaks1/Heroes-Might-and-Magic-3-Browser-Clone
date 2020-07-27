@@ -1,0 +1,230 @@
+{
+  "textures": [
+    {
+      "image": "devil.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 492,
+        "h": 120
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "devil9.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 43,
+            "h": 118
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 43,
+            "h": 118
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 43,
+            "h": 118
+          }
+        },
+        {
+          "filename": "devil10.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 43,
+            "h": 117
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 43,
+            "h": 117
+          },
+          "frame": {
+            "x": 46,
+            "y": 1,
+            "w": 43,
+            "h": 117
+          }
+        },
+        {
+          "filename": "devil6.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 43,
+            "h": 117
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 43,
+            "h": 117
+          },
+          "frame": {
+            "x": 91,
+            "y": 1,
+            "w": 43,
+            "h": 117
+          }
+        },
+        {
+          "filename": "devil7.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 43,
+            "h": 117
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 43,
+            "h": 117
+          },
+          "frame": {
+            "x": 136,
+            "y": 1,
+            "w": 43,
+            "h": 117
+          }
+        },
+        {
+          "filename": "devil8.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 43,
+            "h": 117
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 43,
+            "h": 117
+          },
+          "frame": {
+            "x": 181,
+            "y": 1,
+            "w": 43,
+            "h": 117
+          }
+        },
+        {
+          "filename": "devil1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 45,
+            "h": 116
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 45,
+            "h": 116
+          },
+          "frame": {
+            "x": 226,
+            "y": 1,
+            "w": 45,
+            "h": 116
+          }
+        },
+        {
+          "filename": "devil2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 56,
+            "h": 114
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 56,
+            "h": 114
+          },
+          "frame": {
+            "x": 273,
+            "y": 1,
+            "w": 56,
+            "h": 114
+          }
+        },
+        {
+          "filename": "devil3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 55,
+            "h": 112
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 55,
+            "h": 112
+          },
+          "frame": {
+            "x": 331,
+            "y": 1,
+            "w": 55,
+            "h": 112
+          }
+        },
+        {
+          "filename": "devil4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 52,
+            "h": 112
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 52,
+            "h": 112
+          },
+          "frame": {
+            "x": 388,
+            "y": 1,
+            "w": 52,
+            "h": 112
+          }
+        },
+        {
+          "filename": "devil5.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 49,
+            "h": 112
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 49,
+            "h": 112
+          },
+          "frame": {
+            "x": 442,
+            "y": 1,
+            "w": 49,
+            "h": 112
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:5dec603127ca6c431fde1a9cb281481a:06f458d397dbaaf20fc1b0103a9094bc:0c853fe984c8376b684f52c97d7ad77e$"
+  }
+}

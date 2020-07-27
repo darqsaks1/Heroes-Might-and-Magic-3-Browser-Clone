@@ -1,1 +1,1 @@
-# Heroes-Might-and-Magic-3
+# clonewars-heroes

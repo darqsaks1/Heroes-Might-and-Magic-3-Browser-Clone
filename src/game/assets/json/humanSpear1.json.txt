@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "humanSpear.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1536,
+				"h": 770
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spear1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 412,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 412,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 412,
+						"h": 768
+					}
+				},
+				{
+					"filename": "spear2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 380,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 380,
+						"h": 768
+					},
+					"frame": {
+						"x": 415,
+						"y": 1,
+						"w": 380,
+						"h": 768
+					}
+				},
+				{
+					"filename": "spear4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 768
+					},
+					"frame": {
+						"x": 797,
+						"y": 1,
+						"w": 372,
+						"h": 768
+					}
+				},
+				{
+					"filename": "spear3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 364,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 364,
+						"h": 768
+					},
+					"frame": {
+						"x": 1171,
+						"y": 1,
+						"w": 364,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4c7db086ef7709dbe35908f25ea9f422:c2c51113bdf9a52c861fed3fa7b23cf9:71df0493d0a171777205bf5c6a96f696$"
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "troll.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 400,
+				"h": 92
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trollstay13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 43,
+						"h": 90
+					}
+				},
+				{
+					"filename": "trollstay14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 90
+					},
+					"frame": {
+						"x": 46,
+						"y": 1,
+						"w": 43,
+						"h": 90
+					}
+				},
+				{
+					"filename": "trollstay12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 90
+					},
+					"frame": {
+						"x": 91,
+						"y": 1,
+						"w": 42,
+						"h": 90
+					}
+				},
+				{
+					"filename": "trollstay6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 90
+					},
+					"frame": {
+						"x": 135,
+						"y": 1,
+						"w": 42,
+						"h": 90
+					}
+				},
+				{
+					"filename": "trollstay3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 89
+					},
+					"frame": {
+						"x": 179,
+						"y": 1,
+						"w": 41,
+						"h": 89
+					}
+				},
+				{
+					"filename": "trollstay4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 89
+					},
+					"frame": {
+						"x": 222,
+						"y": 1,
+						"w": 41,
+						"h": 89
+					}
+				},
+				{
+					"filename": "trollstay5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 89
+					},
+					"frame": {
+						"x": 265,
+						"y": 1,
+						"w": 41,
+						"h": 89
+					}
+				},
+				{
+					"filename": "trollstay1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 88
+					},
+					"frame": {
+						"x": 308,
+						"y": 1,
+						"w": 48,
+						"h": 88
+					}
+				},
+				{
+					"filename": "trollstay2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 86
+					},
+					"frame": {
+						"x": 358,
+						"y": 1,
+						"w": 41,
+						"h": 86
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f78a0b2792432103a2d89bfb105aa2c7:1b6294a02bf6bcb27716e86156d07212:6a997b8fea3ff5b8053a1f04b0071f18$"
+	}
+}

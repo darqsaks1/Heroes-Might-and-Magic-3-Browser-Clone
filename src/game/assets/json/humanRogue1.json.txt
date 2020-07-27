@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "humanRogue.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 786,
+				"h": 770
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "rogue2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 407,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 407,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 407,
+						"h": 768
+					}
+				},
+				{
+					"filename": "rogue3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 375,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 768
+					},
+					"frame": {
+						"x": 410,
+						"y": 1,
+						"w": 375,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2744468cdcbacdb6ce0f19dc3e0ff5a9:ee183ac336f6a63febdfb22257eeffde:ac3bce533c51a379300417d33fff3020$"
+	}
+}

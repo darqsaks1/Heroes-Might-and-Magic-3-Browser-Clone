@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "humanArbalet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1584,
+				"h": 770
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "arbalet1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 394,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 394,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 394,
+						"h": 768
+					}
+				},
+				{
+					"filename": "arbalet2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 394,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 394,
+						"h": 768
+					},
+					"frame": {
+						"x": 397,
+						"y": 1,
+						"w": 394,
+						"h": 768
+					}
+				},
+				{
+					"filename": "arbalet3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 394,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 394,
+						"h": 768
+					},
+					"frame": {
+						"x": 793,
+						"y": 1,
+						"w": 394,
+						"h": 768
+					}
+				},
+				{
+					"filename": "arbalet4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 394,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 394,
+						"h": 768
+					},
+					"frame": {
+						"x": 1189,
+						"y": 1,
+						"w": 394,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:19ef98d14be896cd3ffa40a00fc4d17b:6a7db6d2522e4796580253c46308f836:f2ca1362d28f9c8911d5102539405103$"
+	}
+}

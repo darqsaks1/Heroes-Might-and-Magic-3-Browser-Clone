@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "commendant.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 435,
+				"h": 101
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "comendant.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 99
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 85,
+						"h": 99
+					}
+				},
+				{
+					"filename": "comendant1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 99
+					},
+					"frame": {
+						"x": 88,
+						"y": 1,
+						"w": 85,
+						"h": 99
+					}
+				},
+				{
+					"filename": "comendant2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 99
+					},
+					"frame": {
+						"x": 175,
+						"y": 1,
+						"w": 85,
+						"h": 99
+					}
+				},
+				{
+					"filename": "comendant3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 99
+					},
+					"frame": {
+						"x": 262,
+						"y": 1,
+						"w": 85,
+						"h": 99
+					}
+				},
+				{
+					"filename": "comendant4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 99
+					},
+					"frame": {
+						"x": 349,
+						"y": 1,
+						"w": 85,
+						"h": 99
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1e80e23a53bc42b4d7c35d02c9e66d8c:cf82790764e81644decb12c24da8b706:b88f7104951a3ef795eb921f4b83674f$"
+	}
+}

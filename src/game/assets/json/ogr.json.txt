@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "ogr.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 47,
+				"h": 396
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ogr1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 45,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 45,
+						"h": 97
+					}
+				},
+				{
+					"filename": "ogr2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 45,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 100,
+						"w": 45,
+						"h": 97
+					}
+				},
+				{
+					"filename": "ogr3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 45,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 199,
+						"w": 45,
+						"h": 97
+					}
+				},
+				{
+					"filename": "ogr4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 45,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 298,
+						"w": 45,
+						"h": 97
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:19dc99a6754c5509e40ee26508d66cd9:950985558012ce4511594ccb741948cc:37bbb21a343f807542ebecb24f9fbe80$"
+	}
+}

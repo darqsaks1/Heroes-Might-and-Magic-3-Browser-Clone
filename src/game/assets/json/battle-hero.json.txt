@@ -1,0 +1,345 @@
+{
+  "textures": [
+    {
+      "image": "herobattle.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 825,
+        "h": 113
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "hero11.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 66,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 66,
+            "h": 111
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 66,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero12.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 65,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 65,
+            "h": 111
+          },
+          "frame": {
+            "x": 69,
+            "y": 1,
+            "w": 65,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero10.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 64,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 111
+          },
+          "frame": {
+            "x": 136,
+            "y": 1,
+            "w": 64,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero8.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 62,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 62,
+            "h": 111
+          },
+          "frame": {
+            "x": 202,
+            "y": 1,
+            "w": 62,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero13.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 61,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 61,
+            "h": 111
+          },
+          "frame": {
+            "x": 266,
+            "y": 1,
+            "w": 61,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero5.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 61,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 61,
+            "h": 111
+          },
+          "frame": {
+            "x": 329,
+            "y": 1,
+            "w": 61,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 392,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 454,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 516,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 578,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero6.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 640,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero7.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 702,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "hero9.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 60,
+            "h": 111
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 60,
+            "h": 111
+          },
+          "frame": {
+            "x": 764,
+            "y": 1,
+            "w": 60,
+            "h": 111
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:4c45fd018c81571a45300967ec4560f6:7ad2969c0283948ce5ca01a68799c5ec:3f46558ce4e04e0e5c024f77c0441532$"
+  }
+}

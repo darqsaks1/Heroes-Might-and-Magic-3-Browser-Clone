@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "orcWar.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 45,
+				"h": 238
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "warstay1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 43,
+						"h": 78
+					}
+				},
+				{
+					"filename": "warstay3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 81,
+						"w": 43,
+						"h": 77
+					}
+				},
+				{
+					"filename": "warstay4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 160,
+						"w": 43,
+						"h": 77
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:17cacc92f88750b496889ab51f5f645d:57d67320e4ecc6bd76e64975be2734d6:6ea4b0b36e93ecdc9928bfa1669dd1d0$"
+	}
+}

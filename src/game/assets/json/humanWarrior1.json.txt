@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "humanWarrior.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1327,
+				"h": 770
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "humWar1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 357,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 357,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 357,
+						"h": 768
+					}
+				},
+				{
+					"filename": "humWar2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 347,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 768
+					},
+					"frame": {
+						"x": 360,
+						"y": 1,
+						"w": 347,
+						"h": 768
+					}
+				},
+				{
+					"filename": "humWar3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 311,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 311,
+						"h": 768
+					},
+					"frame": {
+						"x": 709,
+						"y": 1,
+						"w": 311,
+						"h": 768
+					}
+				},
+				{
+					"filename": "humWar4png.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 304,
+						"h": 768
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 304,
+						"h": 768
+					},
+					"frame": {
+						"x": 1022,
+						"y": 1,
+						"w": 304,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:94a71a76b4cdaf963d662e9a64565617:082a9500fecec3edcbd470b479b5a59c:64c35e7c1484c8e139078bdaa84bdb28$"
+	}
+}
